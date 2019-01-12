@@ -1,0 +1,1 @@
+A custom icon of Visual Studio Code for mac OS.
